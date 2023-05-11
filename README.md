@@ -5,4 +5,4 @@ To run files:
 2. Download dataset from [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) and upload to Google Drive's outermost directory.
 
 Contributions:
-Both Joelle and Wanli worked contributed to all the Python notebooks.
+Both Joelle and Wanli directly contributed to all Python notebooks.
